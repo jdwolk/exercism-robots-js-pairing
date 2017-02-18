@@ -1,0 +1,10 @@
+{
+  "name": "robot-simulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
